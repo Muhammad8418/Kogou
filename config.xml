@@ -3,8 +3,8 @@
 		xmlns:gap="http://phonegap.com/ns/1.0"
 		id = "com.phonegap.api-request"
 		version ="1.0.0">
-		<name>Picture Memory</name>
+		<name>Kugou</name>
 		<preference name="Fullscreen" value="true"/>
 		<description> Flash </description>
-		<icon src="Clothing13_in_game.png"/>
+		<icon src="joystick.png"/>
 </widget>
